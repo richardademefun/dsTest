@@ -1,4 +1,3 @@
-import base64
 
 fixed_head = """
     <h1 style="color:#d1ab69;text-align:center;letter-spacing:4px;font-family:"Times New Roman", Times, serif;" > DS Tech Test</h1>

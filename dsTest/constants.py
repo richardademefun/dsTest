@@ -1,7 +1,6 @@
 from pathlib import Path
-import dsTest
 
-package_path = Path(dsTest.__file__).parents[1]
+package_path = Path.cwd()
 
 initial_df = package_path / "assets" / "initial_df.png"
 
