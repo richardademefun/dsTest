@@ -1,5 +1,6 @@
 from pathlib import Path
 
+hours_in_day = 24
 package_path = Path.cwd()
 
 initial_df = package_path / "assets" / "initial_df.png"
